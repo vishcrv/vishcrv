@@ -8,8 +8,6 @@ about:
 skills:
   languages:      [python, typescript, javascript]
   frameworks:     [next.js, mcp, express.js, fastapi, react]
-  tools:          [docker, git, vs code]
-  databases:      [mongodb, postgresql, sqlite, indexeddb]
   styling:        [tailwind css, html, css]
   legacy:         [c, cpp, java]
 
