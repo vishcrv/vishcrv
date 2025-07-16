@@ -1,16 +1,32 @@
-## Hi there 👋
+##### me.yaml
 
-<!--
-**vishcrv/vishcrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+about:
+  me:            vishnu cv
+  location:      chennai, india
 
-Here are some ideas to get you started:
+skills:
+  languages:      [python, typescript, javascript]
+  frameworks:     [next.js, mcp, express.js, fastapi, react]
+  tools:          [docker, git, vs code]
+  databases:      [mongodb, postgresql, sqlite, indexeddb]
+  styling:        [tailwind css, html, css]
+  runtimes:       [node.js]
+  legacy:         [c, cpp, java]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+experience:
+  role:           software engineering intern
+  org:            daira edtech
+  location:       hybrid
+  duration:       jul 2025 – present
+
+now:
+  - onw explorin dev
+  - gonna walkthrough ml & dl
+  - open to collab for projects
+
+theme:
+  style:          minimal
+  darkmode:       true
+  lowercase:      true
+```
