@@ -1,25 +1,24 @@
-![cityange.gif](public/cityange.gif)
-
 ##### me.yaml
 
 ```yaml
-about:
-  me:            vishnu cv
-  location:      chennai, india
+dev: vishnu cv
+cap: evolvin
+coords : 12.8406° N, 80.1534° E
 
-skills:
-  languages:      [python, typescript, javascript]
-  frameworks:     [next.js, mcp, express.js, fastapi, react]
-  styling:        [tailwind css, html, css]
-  legacy:         [c, cpp, java]
+stack:
+  - python / ts / js
+  - next.js / fastapi / express.js / react / mcp
+  - selenium / langchain/ sentencetransformers.
 
-experience:
-  role:           full stack intern
+xp:
+  role:           backend intern
   org:            daira edtech
   duration:       jul 2025 – present
 
-now:
-  - onw explorin dev
-  - gonna walkthrough ml & dl
-  - open to collab for projects
+status:
+  - hacking on full-stack & agents
+  - deep dive ml + dl
+  - open for collab
+```
 
+![cityange.gif](public/cityange.gif)
