@@ -7,8 +7,7 @@ coords : 12.8406° N, 80.1534° E
 
 stack:
   - python / ts / js
-  - next.js / fastapi / express.js / react / mcp
-  - selenium / langchain/ sentencetransformers.
+  - next.js / fastapi / express.js 
 
 xp:
   role:           backend intern
