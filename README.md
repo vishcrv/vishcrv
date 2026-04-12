@@ -12,11 +12,11 @@ stack:
 xp:
   role:           backend intern
   org:            daira edtech
-  duration:       jul 2025 – present
+  duration:       jul 2025 – sep 2025
 
 status:
   - hacking on full-stack & agents
-  - deep dive ml + dl
+  - gott dive deep into ml,dl&rl
   - open for collab
 ```
 
